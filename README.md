@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anandgokul18/anandgokul18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hola , I'm Anand 👋
+
+A programmer, computer scientist and a Network Engineer!
+
