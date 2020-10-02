@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/mmirthula02/mmirthula02/blob/master/README.md
+https://raw.githubusercontent.com/mmirthula02/mmirthula02/master/README.md
 -->
 
 ### Hola , I'm Anand 👋
