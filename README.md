@@ -18,5 +18,5 @@ https://raw.githubusercontent.com/mmirthula02/mmirthula02/master/README.md
 
 ### Hola , I'm Anand 👋
 
-A programmer, computer scientist and a Production Engineer!
+Software Engineer with focus on Networking, Production Engineering and Machine Learning. 
 
